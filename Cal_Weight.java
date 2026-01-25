@@ -10,8 +10,6 @@ public class Cal_Weight {
 
 }
 
-// calculate weight on different solar planet using enum
-
 enum Planet {
     MERCURY(3.7),
     VENUS(8.87),
